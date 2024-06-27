@@ -1,0 +1,26 @@
+<HTML>
+	<HEAD>
+	<title> my resume </title>
+	</head>
+	<body>
+	
+	<center><h1> my resume </h1></center>
+	<hr>
+	<p> my name is patel krishna i am presuring diploma degree in bbit collge located in vvnagar,ananad</p>
+	<br>
+	<p>i have  learnt many coding launguges</p>
+	<ul>
+	<li>python</li>
+	<li>java</li>
+	<li>php</li>
+	<li>html</li>
+	<li>css</li>
+	</ul>
+	<ol>
+	<li>python</li>
+	<li>java</li>
+	<li>php</li>
+	<li>html</li>
+	</ol>
+</body>
+</html>
